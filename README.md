@@ -16,7 +16,7 @@
     <span>01/11/nothing</span> .
     <span>01/12/miss&karabiner</span> .
     <span>01/13/tpm</span> .
-    <span>01/14/nothing</span> .
-    <span>01/15/brother</span> .
+    <span>01/14/brother</span> .
+    <span>01/15/12mini</span> .
   </samp>
 </p>
