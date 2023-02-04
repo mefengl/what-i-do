@@ -32,5 +32,7 @@
     <span>02/01/nothing</span> .
     <span>02/02/meaning</span> .
     <span>02/03/bug</span> .
+    <span>02/04/🐈</span> .
+    <span>02/05/Supabase</span> .
   </samp>
 </p>
