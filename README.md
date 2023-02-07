@@ -34,5 +34,7 @@
     <span>02/03/bug</span> .
     <span>02/04/🐈</span> .
     <span>02/05/Supabase</span> .
+    <span>02/06/sleep</span> .
+    <span>02/07/Electron</span> .
   </samp>
 </p>
