@@ -36,6 +36,8 @@
     <span>02/05/Supabase</span> .
     <span>02/06/sleep</span> .
     <span>02/07/Electron</span> .
-    <span>02/07/fs</span> .
+    <span>02/08/fs</span> .
+    <span>02/09/serverless-plugin</span> .
+    <span>02/10/npm-package</span> .
   </samp>
 </p>
