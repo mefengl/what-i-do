@@ -52,5 +52,7 @@
     <span>02/15/retry</span> .
     <span>02/16/Terraform</span> .
     <span>02/17/esbuild</span> .
+    <span>02/18/shape up</span> .
+    <span>02/19/nothing</span> .
   </samp>
 </p>
