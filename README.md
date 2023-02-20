@@ -54,5 +54,6 @@
     <span>02/17/esbuild</span> .
     <span>02/18/shape up</span> .
     <span>02/19/nothing</span> .
+    <span>02/20/CI</span> .
   </samp>
 </p>
