@@ -57,5 +57,6 @@
     <span>02/20/CI</span> .
     <span>02/21/IaC</span> .
     <span>02/22/Packer</span> .
+    <span>02/23/OpenAPI</span> .
   </samp>
 </p>
