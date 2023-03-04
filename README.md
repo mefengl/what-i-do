@@ -62,6 +62,15 @@
     <span>02/26/sleep</span> .
     <span>02/27/nothing</span> .
     <span>02/28/work</span> .
+  </samp>
+</p>
+
+## 03
+<p align="center">
+  <samp>
     <span>03/01/Figma</span> .
+    <span>03/02/fancy</span> .
+    <span>03/03/leader</span> .
+    <span>03/04/sleep</span> .
   </samp>
 </p>
