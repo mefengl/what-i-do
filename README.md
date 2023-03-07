@@ -73,5 +73,7 @@
     <span>03/03/leader</span> .
     <span>03/04/sleep</span> .
     <span>03/05/failure</span> .
+    <span>03/06/investor</span> .
+    <span>03/07/calm</span> .
   </samp>
 </p>
