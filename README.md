@@ -76,6 +76,8 @@
     <span>03/06/investor</span> .
     <span>03/07/calm</span> .
     <span>03/08/nothing</span> .
-    <span>nothing</span> .
+    <span>03/09/ChromeExtension</span> .
+    <span>03/10/nothing</span> .
+    <span>03/11/ReactNative</span> .
   </samp>
 </p>
