@@ -83,5 +83,8 @@
     <span>03/13-15/nothing</span> .
     <span>03/16/chatgpt.js</span> .
     <span>03/17/eslint</span> .
+    <span>03/18-20/nothing</span> .
+    <span>03/21/turborepo</span> .
+    <span>03/22/tsup</span> .
   </samp>
 </p>
