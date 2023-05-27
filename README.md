@@ -125,5 +125,7 @@
     <span>05/06-08/nothing</span> .
     <span>05/09/code-by-ai-roadmap</span> .
     <span>05/10/VSCodeExtension</span> .
+    <span>05/11-26/nothing</span> .
+    <span>05/27/The Trial of the Chicago 7</span> .
   </samp>
 </p>
