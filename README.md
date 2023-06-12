@@ -136,5 +136,7 @@
   <samp>
     <span>06/01-05/nothing</span> .
     <span>06/06/cool-down-button</span> .
+    <span>06/07-12/nothing</span> .
+    <span>06/13/DOOM</span> .
   </samp>
 </p>
