@@ -139,5 +139,7 @@
     <span>06/07-12/nothing</span> .
     <span>06/13/DOOM</span> .
     <span>06/14/tmux</span> .
+    <span>06/15/nothing</span> .
+    <span>06/16/VS Marketplace</span> .
   </samp>
 </p>
