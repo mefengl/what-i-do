@@ -141,5 +141,6 @@
     <span>06/14/tmux</span> .
     <span>06/15/nothing</span> .
     <span>06/16/VS Marketplace</span> .
+    <span>06/17/animation</span> .
   </samp>
 </p>
