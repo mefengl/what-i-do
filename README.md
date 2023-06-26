@@ -142,5 +142,7 @@
     <span>06/15/nothing</span> .
     <span>06/16/VS Marketplace</span> .
     <span>06/17/animation</span> .
+    <span>06/18-25/nothing</span> .
+    <span>06/26/Arc</span> .
   </samp>
 </p>
