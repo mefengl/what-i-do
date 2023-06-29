@@ -144,5 +144,8 @@
     <span>06/17/animation</span> .
     <span>06/18-25/nothing</span> .
     <span>06/26/Arc</span> .
+    <span>06/27/I Don't Care About Commit Message</span> .
+    <span>06/28/nothing</span> .
+    <span>06/29/gist</span> .
   </samp>
 </p>
