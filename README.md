@@ -157,5 +157,6 @@
   <samp>
     <span>07/01-03/nothing</span> .
     <span>07/04/Conventional Commits</span> .
+    <span>07/05/i18n</span> .
   </samp>
 </p>
