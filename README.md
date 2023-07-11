@@ -158,5 +158,8 @@
     <span>07/01-03/nothing</span> .
     <span>07/04/Conventional Commits</span> .
     <span>07/05/i18n</span> .
+    <span>07/06-09/nothing</span> .
+    <span>07/10/tdd</span> .
+    <span>07/11/vitest</span> .
   </samp>
 </p>
