@@ -161,5 +161,7 @@
     <span>07/06-09/nothing</span> .
     <span>07/10/tdd</span> .
     <span>07/11/vitest</span> .
+    <span>07/12-16/nothing</span> .
+    <span>07/17/workspaces</span> .
   </samp>
 </p>
