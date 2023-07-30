@@ -166,5 +166,10 @@
     <span>07/15-16/nothing</span> .
     <span>07/17/workspaces</span> .
     <span>07/18/renovate</span> .
+    <span>07/19-24/nothing</span> .
+    <span>07/25/LxgwWenKai</span> .
+    <span>07/26-28/nothing</span> .
+    <span>07/29/power</span> .
+    <span>07/30/ast-grep</span> .
   </samp>
 </p>
