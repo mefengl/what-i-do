@@ -171,5 +171,16 @@
     <span>07/26-28/nothing</span> .
     <span>07/29/power</span> .
     <span>07/30/ast-grep</span> .
+    <span>07/31/nothing</span> .
+  </samp>
+</p>
+
+## 08
+
+<p align="center">
+  <samp>
+    <span>08/01-07/nothing</span> .
+    <span>08/08/SEO</span> .
+    <span>08/09-10/nothing</span> .
   </samp>
 </p>
