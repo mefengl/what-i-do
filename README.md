@@ -185,5 +185,15 @@
     <span>08/14/espanso</span> .
     <span>08/15-23/nothing</span> .
     <span>08/24/kamal</span> .
+    <span>08/25-30/nothing</span> .
+    <span>08/31/ansible</span> .
+  </samp>
+</p>
+
+## 09
+
+<p align="center">
+  <samp>
+    <span>09/01/zinit</span> .
   </samp>
 </p>
