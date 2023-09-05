@@ -195,5 +195,8 @@
 <p align="center">
   <samp>
     <span>09/01/zinit</span> .
+    <span>09/02/anki</span> .
+    <span>09/03/vimdiff</span> .
+    <span>09/04/scp</span> .
   </samp>
 </p>
