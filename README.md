@@ -198,5 +198,7 @@
     <span>09/02/anki</span> .
     <span>09/03/vimdiff</span> .
     <span>09/04/scp</span> .
+    <span>09/05-12/nothing</span> .
+    <span>09/13/sooner</span> .
   </samp>
 </p>
