@@ -201,5 +201,6 @@
     <span>09/05-12/nothing</span> .
     <span>09/13/sooner</span> .
     <span>09/14/yabai</span> .
+    <span>09/15/shortcutFoo</span> .
   </samp>
 </p>
