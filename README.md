@@ -170,6 +170,7 @@
     <span>10/02/Nanjing</span> .
     <span>10/05/css</span> .
     <span>10/11/Runaway</span> .
+    <span>10/14/gym</span> .
     <span>10/17/anki</span> .
   </samp>
 </p>
