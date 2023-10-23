@@ -160,6 +160,7 @@
     <span>09/14/yabai</span> .
     <span>09/15/shortcutFoo</span> .
     <span>09/16/pinboard</span> .
+    <span>09/27/doctl</span> .
   </samp>
 </p>
 
