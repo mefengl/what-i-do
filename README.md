@@ -176,5 +176,7 @@
     <span>10/14/gym</span> .
     <span>10/16/shadcn-ui</span> .
     <span>10/17/anki</span> .
+    <span>10/26/crxjs</span> .
+    <span>10/26/code</span> .
   </samp>
 </p>
