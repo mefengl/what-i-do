@@ -186,5 +186,7 @@
 <p align="center">
   <samp>
     <span>11/01/clean</span> .
+    <span>11/03/bar</span> .
+    <span>11/05/進撃の巨人</span> .
   </samp>
 </p>
