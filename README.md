@@ -189,5 +189,7 @@
     <span>11/03/bar</span> .
     <span>11/04/request</span> .
     <span>11/05/進撃の巨人</span> .
+    <span>11/06/eslint</span> .
+    <span>11/07/fzf</span> .
   </samp>
 </p>
