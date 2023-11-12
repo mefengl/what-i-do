@@ -191,5 +191,8 @@
     <span>11/05/進撃の巨人</span> .
     <span>11/06/eslint</span> .
     <span>11/07/fzf</span> .
+    <span>11/10/party</span> .
+    <span>11/11/wxt</span> .
+    <span>11/12/drive.js</span> .
   </samp>
 </p>
