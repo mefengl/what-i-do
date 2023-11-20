@@ -196,5 +196,7 @@
     <span>11/12/drive.js</span> .
     <span>11/17/grid</span> .
     <span>11/18/talk</span> .
+    <span>11/19/x</span> .
+    <span>11/20/Doozy</span> .
   </samp>
 </p>
