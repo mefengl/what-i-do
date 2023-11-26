@@ -198,5 +198,7 @@
     <span>11/18/talk</span> .
     <span>11/19/x</span> .
     <span>11/20/Doozy</span> .
+    <span>11/25/lemonsqueezy</span> .
+    <span>11/25/canvas</span> .
   </samp>
 </p>
