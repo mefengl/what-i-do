@@ -199,6 +199,8 @@
     <span>11/19/x</span> .
     <span>11/20/Doozy</span> .
     <span>11/25/lemonsqueezy</span> .
-    <span>11/25/canvas</span> .
+    <span>11/26/canvas</span> .
+    <span>11/27/typefully</span> .
+    <span>11/28/crawlee</span> .
   </samp>
 </p>
