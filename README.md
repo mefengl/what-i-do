@@ -209,6 +209,7 @@
 
 <p align="center">
   <samp>
+    <span>12/07/typeform</span> .
     <span>12/09/indie</span> .
     <span>12/10/batch2</span> .
   </samp>
