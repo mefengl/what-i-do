@@ -212,5 +212,9 @@
     <span>12/07/typeform</span> .
     <span>12/09/indie</span> .
     <span>12/10/batch2</span> .
+    <span>12/16/gemini</span> .
+    <span>12/18/company</span> .
+    <span>12/21/catalyst</span> .
+    <span>12/23/tooth</span> .
   </samp>
 </p>
