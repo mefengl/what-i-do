@@ -1,6 +1,6 @@
 # what-i-do
 
-## 01
+## 2023-01
 <p align="center">
   <samp>
     <span>01/01/sleep</span> .
@@ -22,7 +22,7 @@
   </samp>
 </p>
 
-## 02
+## 2023-02
 <p align="center">
   <samp>
     <span>02/02/meaning</span> .
@@ -51,7 +51,7 @@
   </samp>
 </p>
 
-## 03
+## 2023-03
 <p align="center">
   <samp>
     <span>03/01/Figma</span> .
@@ -76,7 +76,7 @@
   </samp>
 </p>
 
-## 04
+## 2023-04
 
 <p align="center">
   <samp>
@@ -93,7 +93,7 @@
   </samp>
 </p>
 
-## 05
+## 2023-05
 
 <p align="center">
   <samp>
@@ -105,7 +105,7 @@
   </samp>
 </p>
 
-## 06
+## 2023-06
 
 <p align="center">
   <samp>
@@ -120,7 +120,7 @@
   </samp>
 </p>
 
-## 07
+## 2023-07
 
 <p align="center">
   <samp>
@@ -137,7 +137,7 @@
   </samp>
 </p>
 
-## 08
+## 2023-08
 
 <p align="center">
   <samp>
@@ -148,7 +148,7 @@
   </samp>
 </p>
 
-## 09
+## 2023-09
 
 <p align="center">
   <samp>
@@ -164,7 +164,7 @@
   </samp>
 </p>
 
-## 10
+## 2023-10
 
 <p align="center">
   <samp>
@@ -181,7 +181,7 @@
   </samp>
 </p>
 
-## 11
+## 2023-11
 
 <p align="center">
   <samp>
@@ -205,7 +205,7 @@
   </samp>
 </p>
 
-## 12
+## 2023-12
 
 <p align="center">
   <samp>
@@ -218,5 +218,15 @@
     <span>12/23/tooth</span> .
     <span>12/24/read</span> .
     <span>12/30/sleep</span> .
+  </samp>
+</p>
+
+## 2024-01
+
+<p align="center">
+  <samp>
+    <span>01/27/friend</span> .
+    <span>01/28/try</span> .
+    <span>01/29/n8n</span> .
   </samp>
 </p>
