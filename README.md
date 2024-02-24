@@ -236,5 +236,6 @@
 
 <p align="center">
   <samp>
+    <span>02/24/sentry</span> .
   </samp>
 </p>
