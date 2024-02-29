@@ -237,5 +237,7 @@
 <p align="center">
   <samp>
     <span>02/24/sentry</span> .
+    <span>02/27/shadcn-ui</span> .
+    <span>02/29/hackernews</span> .
   </samp>
 </p>
