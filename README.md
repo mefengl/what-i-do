@@ -260,5 +260,16 @@
     <span>04/03/gpt3.5</span> .
     <span>04/04/claude</span> .
     <span>04/05/walk</span> .
+    <span>04/25/talk</span> .
+  </samp>
+</p>
+
+## 2024-05
+
+<p align="center">
+  <samp>
+    <span>05/04/hotel</span> .
+    <span>05/05/redalert</span> .
+    <span>05/15/matte</span> .
   </samp>
 </p>
