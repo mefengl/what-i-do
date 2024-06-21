@@ -284,6 +284,7 @@
 <p align="center">
   <samp>
     <span>06/17/perfectionist</span> .
+    <span>06/20/discordjs</span> .
     <span>06/21/markdownlint</span> .
   </samp>
 </p>
