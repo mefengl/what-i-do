@@ -294,5 +294,6 @@
 <p align="center">
   <samp>
     <span>07/05/iconify</span> .
+    <span>07/17/expo</span> .
   </samp>
 </p>
