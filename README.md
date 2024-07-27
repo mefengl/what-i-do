@@ -295,5 +295,6 @@
   <samp>
     <span>07/05/iconify</span> .
     <span>07/17/expo</span> .
+    <span>07/27/vim</span> .
   </samp>
 </p>
