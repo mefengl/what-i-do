@@ -305,5 +305,6 @@
   <samp>
     <span>08/02/robot</span> .
     <span>08/03/bed</span> .
+    <span>08/12/mdx</span> .
   </samp>
 </p>
