@@ -320,4 +320,7 @@
     <span>09/04/kanye</span> .
     <span>09/06/figma</span> .
     <span>09/11/lazygit</span> .
+    <span>09/16/rust</span> .
+    <span>09/19/ratatui</span> .
   </samp>
+</p>
