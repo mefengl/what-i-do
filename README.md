@@ -322,5 +322,8 @@
     <span>09/11/lazygit</span> .
     <span>09/16/rust</span> .
     <span>09/19/ratatui</span> .
+    <span>09/20/fly</span> .
+    <span>09/27/i18n</span> .
+    <span>09/28/ye</span> .
   </samp>
 </p>
